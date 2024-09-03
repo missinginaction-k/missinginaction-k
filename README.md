@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @missinginaction-k.
 - 👀 I’m interested in building good habits.
 - 🌱 I’m currently learning as much as I can.
-- 💞️ I’m looking to collaborate on data management & back-end testing.
-- 📫 How to reach me: send me a message here.
+- 💞️ I’m looking to collaborate on anything here you think is interesting.
+- 📫 How to reach me: email miakrause86@gmail.com.
 - 😄 Pronouns: she/her
 - ⚡ Fun Fact: [The first gold-standard pregnancy test was a frog.](https://en.wikipedia.org/wiki/African_clawed_frog#Use_in_research)
